@@ -1,0 +1,11 @@
+/Users/totandras/Desktop/Учёба/Программы/sr_sane/sr1/bin/Debug/net6.0/sr1
+/Users/totandras/Desktop/Учёба/Программы/sr_sane/sr1/bin/Debug/net6.0/sr1.dll
+/Users/totandras/Desktop/Учёба/Программы/sr_sane/sr1/bin/Debug/net6.0/sr1.pdb
+/Users/totandras/Desktop/Учёба/Программы/sr_sane/sr1/obj/Debug/net6.0/sr1.csproj.AssemblyReference.cache
+/Users/totandras/Desktop/Учёба/Программы/sr_sane/sr1/obj/Debug/net6.0/sr1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/totandras/Desktop/Учёба/Программы/sr_sane/sr1/obj/Debug/net6.0/sr1.AssemblyInfoInputs.cache
+/Users/totandras/Desktop/Учёба/Программы/sr_sane/sr1/obj/Debug/net6.0/sr1.AssemblyInfo.cs
+/Users/totandras/Desktop/Учёба/Программы/sr_sane/sr1/obj/Debug/net6.0/sr1.csproj.CoreCompileInputs.cache
+/Users/totandras/Desktop/Учёба/Программы/sr_sane/sr1/obj/Debug/net6.0/sr1.dll
+/Users/totandras/Desktop/Учёба/Программы/sr_sane/sr1/obj/Debug/net6.0/ref/sr1.dll
+/Users/totandras/Desktop/Учёба/Программы/sr_sane/sr1/obj/Debug/net6.0/sr1.pdb
